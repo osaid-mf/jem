@@ -9,7 +9,7 @@
 					
                   <div>
                     <div class="col-md-12">
-                      <h2>About Us</h2>
+                      <h2>About Uss</h2>
                       <h5>Our mission is to improve your health and happiness. We believe better information can transform the way you live and the products you buy.</h5>
                       <br>
                       <h6>6 Things You Should Know About Us:</h6>
